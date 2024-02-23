@@ -1,7 +1,9 @@
 # Ujian_ISD_WisnuKresnohadi_6076223157
 
-NIM : 6076223157\n
+NIM : 6076223157
+
 Nama : Wisnu Kresnohadi
+
 Kelas : 46-01
 
 1.Program ini tidak sempurna namun bukan berarti cacat hanya terdapat keterbatasan dalam menginput dan mendelete data yang hanya bisa dilakukan di depan dan di belakang, jadi tidak melakukan input atau delete di tengah
