@@ -17,4 +17,5 @@ Buatlah Program single list yang bisa melakukan :
 - edit spesifik data
 - print spesifik data
 
+menggunakan soal sebelumnya yang berarti update lah kode kalian dengan soal nomer 2 ini
 Ujian ISD Asprak
