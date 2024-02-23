@@ -1,6 +1,6 @@
 # Ujian_ISD_WisnuKresnohadi_6076223157
 
-NIM : 6076223157
+NIM : 6076223157\n
 Nama : Wisnu Kresnohadi
 Kelas : 46-01
 
